@@ -164,6 +164,9 @@ sections:
         * 07/2023: Graduated from the XJTLU and University of Liverpool with first class honors!
         * 03/2023: Our 'Cheer for me' paper was published on Virtual Reality
         * 01/2023: the birth of this website
+    design:
+      columns: '1'
+
   - block: portfolio
     id: projects
     content:
@@ -225,7 +228,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        #exclude_featured: true
     design:
       columns: '2'
       view: citation
