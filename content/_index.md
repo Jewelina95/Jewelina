@@ -157,8 +157,8 @@ sections:
 - block: markdown
   id: news
   content:
-    title: Recent News
-    text: |2-
+    title: News
+    text: |-
       * 02/2024: First-author CHI24 paper was Accepted!🎉
       * 02/2024: Reviewed two CHI24 Late-Breaking Work papers
       * 09/2023: Started the master at NYU
@@ -189,6 +189,8 @@ sections:
           tag: Predict
         - name: Enhance
           tag: Enhance
+        - name: Other
+          tag: Other
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
