@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Hi! I am Jewelina
+      title: Hi! I am Jewelin
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   #- block: skills
@@ -127,33 +127,50 @@ sections:
   #        url: ''
   #  design:
   #    columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
+  #- block: collection
+  #  id: posts
+  #  content:
+  #    title: Recent News
+  #    subtitle: ''
+  #    text: ''
+  #    # Choose how many pages you would like to display (0 = all pages)
+  #    count: 5
+  #    # Filter on criteria
+  #    filters:
+  #      folders:
+  #        - post
+  #      author: ""
+  #      category: ""
+  #      tag: ""
+  #      exclude_featured: false
+  #      exclude_future: false
+  #      exclude_past: false
+  #      publication_type: ""
+  #    # Choose how many pages you would like to offset by
+  #    offset: 0
+  #    # Page order: descending (desc) or ascending (asc) date.
+  #    order: desc
+  #  design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+  #    view: compact
+  #    columns: '2'
+  - block: markdown
+  id: news
+  content:
+    title: Recent News
+    text: |-
+      - 02/2024: First-author CHI24 paper was Accepted!🎉
+      
+      - 02/2024: Reviewed two CHI24 Late-Breaking Work papers
+      
+      - 09/2023: Started the master at NYU
+      
+      - 07/2023: Graduated from the XJTLU and University of Liverpool with first class honors!
+      
+      - 03/2023: Our Cheer for me paper was published on Virtual Reality
+      
+      - 01/2023: the birth of this website
+      
   - block: portfolio
     id: projects
     content:
