@@ -158,16 +158,13 @@ sections:
   id: news
   content:
     title: Recent News
-    text: |-
-      <ul>
-        <li>02/2024: First-author CHI24 paper was Accepted!🎉</li>
-        <li>02/2024: Reviewed two CHI24 Late-Breaking Work papers</li>
-        <li>09/2023: Started the master at NYU</li>
-        <li>07/2023: Graduated from the XJTLU and University of Liverpool with first class honors!</li>
-        <li>03/2023: Our 'Cheer for me' paper was published on Virtual Reality</li>
-        <li>01/2023: the birth of this website</li>
-      </ul>
-
+    text: |2-
+      * 02/2024: First-author CHI24 paper was Accepted!🎉
+      * 02/2024: Reviewed two CHI24 Late-Breaking Work papers
+      * 09/2023: Started the master at NYU
+      * 07/2023: Graduated from the XJTLU and University of Liverpool with first class honors!
+      * 03/2023: Our 'Cheer for me' paper was published on Virtual Reality
+      * 01/2023: the birth of this website
 
   - block: portfolio
     id: projects
