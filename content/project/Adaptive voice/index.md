@@ -1,5 +1,5 @@
 ---
-title: Adaptive Voice
+title: Adaptive Voice (CHI24)
 summary:  Cognitively Adaptive Voice Interface for Driving Assistance
 tags:
   - Predict
