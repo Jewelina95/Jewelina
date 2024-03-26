@@ -158,7 +158,7 @@ sections:
   id: news
   content:
     title: Recent News
-    text: |-
+    text: 
       - 02/2024: First-author CHI24 paper was Accepted!🎉
       
       - 02/2024: Reviewed two CHI24 Late-Breaking Work papers
