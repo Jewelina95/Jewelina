@@ -6,12 +6,16 @@ title: 'AdaptiveVoice: Cognitively Adaptive Voice Interface for Driving Assistan
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Songming Ping
+  - Jialin Wang
+  - Hai Ning Liang
+  - Xuihai Xu
+  - Yukang Yan
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
 date: '2024-03-23T00:00:00Z'
 doi: 'https://doi.org/10.1145/3613904.3642876'
