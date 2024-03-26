@@ -40,9 +40,9 @@ Rapid advances in immersive VR technology, especially in the form of inexpensive
 
 In short, this study aims to fill an unexplored space by investigating the effect of NPC audience feedback on the elderly’s performance and experience in VR exergames. More specifically, we want to investigate the following two Research Questions (RQ):
 
-RQ1: How would the presence of an NPC audience without reactive feedback (i.e., non-reactive to the player’s performance) affect older adult users’ performance and experience in VR exergames?
+- RQ1: How would the presence of an NPC audience without reactive feedback (i.e., non-reactive to the player’s performance) affect older adult users’ performance and experience in VR exergames?
 
-RQ2: How would the presence of an NPC audience with reactive feedback affect older adult users’ performance and experience in VR exergames?
+- RQ2: How would the presence of an NPC audience with reactive feedback affect older adult users’ performance and experience in VR exergames?
 
 To answer these two questions, we run an experiment with 20 older adult participants who played a VR exergame under three conditions (no audience, audience with no feedback, and audience with reactive feedback). Our results show that an audience without feedback has no significant effect, but an audience with positive feedback can lead to improved performance and a better gameplay experience. These results can form the basis to frame the design and engineering of VR exergames that are tailored for older adult users.
 <p>
