@@ -1,7 +1,6 @@
 ---
 title: Adaptive Voice
-summary:  Cognitively Adaptive Voice Interface for Driving
-Assistance
+summary:  Cognitively Adaptive Voice Interface for Driving Assistance
 tags:
   - Predict
 date: '2024-03-26T00:00:00Z'
