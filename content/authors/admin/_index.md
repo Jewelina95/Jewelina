@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 文劭玥
+title: Shaoyue(Jewelina) Wen
 
 # Name pronunciation (optional)
-name_pronunciation: Shaoyue Wen
+#name_pronunciation: Shaoyue Wen
 
 # Full name (for SEO)
 first_name: Shaoyue (Jewelina)
@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+#role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: New York University
+    #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio:
 
 # Interests to show in About widget
 interests:
@@ -33,6 +33,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
+<!--
 # Education to show in About widget
 education:
   courses:
@@ -85,7 +86,7 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
-
+-->
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -120,5 +121,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ I am currently a master student at NYU. I received my BEng (First class) from Xi'an Jiaotong-Liverpool University and the University of Liverpool, under the supervision of Hai-Ning Liang url：https://scholar.xjtlu.edu.cn/en/persons/HaiNingLiang. Prior to it, I worked with Wenge Xu url：https://xuwenge.github.io/ at the Birmingham City University, Yukang Yan url: https://rochester-bear-lab.github.io/ (now at University of Rochester) and Xuhai Xu (now at MIT) at the Tsinghua University HCI Group, and Wenge Xu url：https://xuwenge.github.io/ at the Birmingham City University, and Ling Wang url: https://scholar.google.com.sg/citations?user=lC7bVMwAAAAJ&hl=en  at the Tsinghua University Automation Department.
+
+ My research interests lie in the realm of Human-Computer Interaction (HCI), specifically in Mixed Reality (AR/VR), Adaptive User Interface, Spatial Computing. My work focuses on understanding user behaviors through Computational Behavior Models, predicting them by using Instinctive Interaction Techniques, and enhancing user behaviors.
+
 {style="text-align: justify;"}
