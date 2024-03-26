@@ -33,60 +33,60 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-<!--
+
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
--->
+#skills:
+#  - name: Technical
+#    items:
+#      - name: Python
+#        description: ''
+#       percent: 80
+#        icon: python
+#        icon_pack: fab
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-line
+#        icon_pack: fas
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: database
+#        icon_pack: fas
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-hiking
+#        icon_pack: fas
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#        icon_pack: fas
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera-retro
+#        icon_pack: fas
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -121,7 +121,7 @@ social:
 highlight_name: true
 ---
 
- I am currently a master student at NYU. I received my BEng (First class) from Xi'an Jiaotong-Liverpool University and the University of Liverpool, under the supervision of Hai-Ning Liang url：https://scholar.xjtlu.edu.cn/en/persons/HaiNingLiang. Prior to it, I worked with Wenge Xu url：https://xuwenge.github.io/ at the Birmingham City University, Yukang Yan url: https://rochester-bear-lab.github.io/ (now at University of Rochester) and Xuhai Xu (now at MIT) at the Tsinghua University HCI Group, and Wenge Xu url：https://xuwenge.github.io/ at the Birmingham City University, and Ling Wang url: https://scholar.google.com.sg/citations?user=lC7bVMwAAAAJ&hl=en  at the Tsinghua University Automation Department.
+I am currently a master student at NYU. I received my BEng (First class) from Xi'an Jiaotong-Liverpool University and the University of Liverpool, under the supervision of [Hai-Ning Liang](https://scholar.xjtlu.edu.cn/en/persons/HaiNingLiang). Prior to it, I worked with [Wenge Xu](https://xuwenge.github.io/) at Birmingham City University, [Yukang Yan](https://rochester-bear-lab.github.io/) (now at University of Rochester) and Xuhai Xu (now at MIT) at the Tsinghua University HCI Group, and [Wenge Xu](https://xuwenge.github.io/) at Birmingham City University, and [Ling Wang](https://scholar.google.com.sg/citations?user=lC7bVMwAAAAJ&hl=en) at the Tsinghua University Automation Department
 
  My research interests lie in the realm of Human-Computer Interaction (HCI), specifically in Mixed Reality (AR/VR), Adaptive User Interface, Spatial Computing. My work focuses on understanding user behaviors through Computational Behavior Models, predicting them by using Instinctive Interaction Techniques, and enhancing user behaviors.
 
