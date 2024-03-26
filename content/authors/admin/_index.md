@@ -121,10 +121,8 @@ social:
 highlight_name: true
 ---
 <p style="text-align: justify;">
-I am currently a master student at NYU. I received my BEng (First class) from Xi'an Jiaotong-Liverpool University and the University of Liverpool, under the supervision of Hai-Ning Liang url：https://scholar.xjtlu.edu.cn/en/persons/HaiNingLiang. Prior to it, I worked with Wenge Xu url：https://xuwenge.github.io/ at the Birmingham City University, Yukang Yan url: https://rochester-bear-lab.github.io/ (now at University of Rochester) and Xuhai Xu (now at MIT) at the Tsinghua University HCI Group, and Wenge Xu url：https://xuwenge.github.io/ at the Birmingham City University, and Ling Wang url: https://scholar.google.com.sg/citations?user=lC7bVMwAAAAJ&hl=en  at the Tsinghua University Automation Department.
+I am currently a master student at NYU. I received my BEng (First class) from Xi'an Jiaotong-Liverpool University and the University of Liverpool, under the supervision of [Hai-Ning Liang](https://scholar.xjtlu.edu.cn/en/persons/HaiNingLiang). Prior to it, I worked with [Yukang Yan](https://rochester-bear-lab.github.io/) (now at University of Rochester) and [Xuhai Xu ](https://orsonxu.com/?section=1)(now at MIT) at the Tsinghua University HCI Group, and [Wenge Xu](https://xuwenge.github.io/) at the Birmingham City University, and [Ling Wang](https://scholar.google.com.sg/citations?user=lC7bVMwAAAAJ&hl=en) at the Tsinghua University Automation Department.
 
-My research interests lie in the realm of Human-Computer Interaction (HCI), specifically in Mixed Reality **(AR/VR)**, **Adaptive User Interface**, **Spatial Computing**. My work focuses on **understanding** user behaviors through Computational Behavior Models, **predicting** them by using Instinctive Interaction Techniques, and **enhancing** user behaviors.  
-
+My research interests lie in the realm of [Human-Computer Interaction](https://dl.acm.org/doi/abs/10.1145/3025453.3025765) url: (HCI), specifically in [Mixed Reality](https://dl.acm.org/doi/abs/10.1145/3290605.3300767) **(AR/VR)**, **Adaptive User Interface**, **Spatial Computing**. My work focuses on **understanding** user behaviors through Computational Behavior Models, **predicting** them by using Instinctive Interaction Techniques, and **enhancing** user behaviors.  
 🍟ꈍꈊꈍ🍟
 </p>
-#{style="text-align: justify;"}
