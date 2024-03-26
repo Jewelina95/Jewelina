@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'AdaptiveVoice: Cognitively Adaptive Voice Interface for Driving Assistance'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,11 +13,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2024-03-23T00:00:00Z'
+doi: 'https://doi.org/10.1145/3613904.3642876'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-05-11T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,13 +25,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *CHI conference on Human Factors in Computing Systems*
+publication_short: In *CHI*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Current voice assistants present messages in a predefined format without considering users’ mental states. This paper presents an optimization-based approach to alleviate this issue which adjusts the level of details and speech speed of the voice messages according to the estimated cognitive load of the user. In the first user study (N = 12), we investigated the impact of cognitive load on user performance. The findings reveal significant differences in preferred message formats across five cognitive load levels, substantiating the need for voice message adaptation. We then implemented AdaptiveVoice, an algorithm based on combinatorial optimization to generate adaptive voice messages in real time. In the second user study (N = 30) conducted in a VR-simulated driving environment, we compare AdaptiveVoice with a fixed format baseline, with and without visual guidance on the Heads-up display (HUD). Results indicate that users benefit from AdaptiveVoice with reduced response time and improved driving performance, particularly when it is augmented with HUD.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Human-centered computing → Auditory feedback
 
 tags: []
 
@@ -43,14 +43,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'https://doi.org/10.1145/3613904.3642876'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://drive.google.com/file/d/1WjKUx6KjPTa81uBeglH_NZydaZc_oGki/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
