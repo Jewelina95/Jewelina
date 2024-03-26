@@ -42,7 +42,7 @@ sections:
       title: Hi! I am Jewelina
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - #block: skills
+  #- block: skills
     #content:
     #  title: Skills
     #  text: ''
@@ -50,7 +50,7 @@ sections:
     #  username: admin
     #design:
     #  columns: '1'
-  - #block: experience
+  #- block: experience
     #content:
     #  title: Experience
       # Date format for experience
