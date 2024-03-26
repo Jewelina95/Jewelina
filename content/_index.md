@@ -154,23 +154,18 @@ sections:
       # Choose a layout view
   #    view: compact
   #    columns: '2'
-  - block: markdown
+ - block: markdown
   id: news
   content:
     title: Recent News
-    text: 
+    text: |-
       - 02/2024: First-author CHI24 paper was Accepted!🎉
-      
       - 02/2024: Reviewed two CHI24 Late-Breaking Work papers
-      
       - 09/2023: Started the master at NYU
-      
       - 07/2023: Graduated from the XJTLU and University of Liverpool with first class honors!
-      
       - 03/2023: Our Cheer for me paper was published on Virtual Reality
-      
       - 01/2023: the birth of this website
-      
+
   - block: portfolio
     id: projects
     content:
