@@ -2,7 +2,7 @@
 title: "Cheer for me: effect of non-player character audience feedback on older adult users of virtual reality exergames"
 authors:
 - Kangyou Yu
-- admin
+- Shaoyue Wen
 - Wenge Xu
 - Maurizio Caon
 - Nilufar Baghaei

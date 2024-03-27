@@ -1,7 +1,7 @@
 ---
 title: 'AdaptiveVoice: Cognitively Adaptive Voice Interface for Driving Assistance'
 authors:
-- Songming Ping, Jialin Wang, Hai Ning Liang, Xuihai Xu, Yukang Yan Shaoyue Wen
+- Shaoyue Wen, Songming Ping, Jialin Wang, Hai Ning Liang, Xuihai Xu, Yukang Yan
 date: '2024-01-01'
 publishDate: '2024-03-27T07:47:09.442710Z'
 publication_types:
