@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Hi! I am Jewelina Wen
+      title: Hi! I am Jewelina
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   #- block: skills
