@@ -15,7 +15,6 @@ url_video: 'https://youtu.be/RA1gqPlfTO0'
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://shaoyue.myportfolio.com/vr-english-learning-platform
-https://youtu.be/RA1gqPlfTO0
 
 image:
   #caption: Photo by Toa Heftiba on Unsplash
