@@ -215,6 +215,7 @@ sections:
   #  design:
   #    columns: '2'
   #    view: card
+
   - block: collection
     id: featured
     content:
@@ -240,11 +241,19 @@ sections:
   #  design:
   #    columns: '2'
   #    view: compact
-  - block: tag_cloud
+  - block: markdown
     content:
-      title: Work and life balance
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
     design:
-      columns: '2'
+      columns: '1'
+  #- block: tag_cloud
+  #  content:
+  #    title: Work and life balance
+  #  design:
+  #    columns: '2'
   - block: contact
     id: contact
     content:
