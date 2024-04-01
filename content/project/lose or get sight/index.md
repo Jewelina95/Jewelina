@@ -1,6 +1,6 @@
 ---
 title: Lost or get sight
-summary:A third-person single-player narrative game that tells the story of a blind man
+summary: A third-person single-player narrative game that tells the story of a blind man
 tags:
   - Other
 date: "2022-04-27T00:00:00Z"
