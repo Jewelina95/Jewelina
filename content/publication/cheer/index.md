@@ -13,4 +13,5 @@ publishDate: '2024-03-27T10:40:17.672890Z'
 publication_types:
 - article-journal
 publication: '*Virtual Reality*'
+doi: https://doi.org/10.1007/s10055-023-00780-5
 ---
