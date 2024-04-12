@@ -55,9 +55,9 @@ links:
   P2:
   We use Emo-Fan VR. Emo-Fan is a network commonly used to measure a person's psychological state through facial expressions. We use Emo-Fan VR, a version fine-tuned with facial data from a person wearing an HMD, to capture real-time player facial expressions as input for the RL algorithm.
   In Emo-Fan VR, the output results use two coordinate values, Arousal and Valence, along with a label from "Neutral", "Happiness", "Sadness", and "Surprise". These two psychological dimensional measures are non-discrete and very suitable for use in real-time applications.
-  <img src="/workspaces/Jewelina/content/project/Adaptive Audience/emofan.png" alt="Emo-Fan Image" />
+
   </p>
   More details will be released after publication
-  <img src="/workspaces/Jewelina/content/project/Adaptive Audience/audience2.png" alt="auidence2" /> 
+
 <div>
 

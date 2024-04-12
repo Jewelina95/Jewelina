@@ -115,7 +115,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/ShaoyueCV3.26.pdf
+    link: https://drive.google.com/file/d/1Ewe8UjFvJDdSKCP_1ZVl8Y51pmE9jng2/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
