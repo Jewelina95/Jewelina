@@ -121,10 +121,13 @@ social:
 highlight_name: true
 ---
 <p style="text-align: justify;">
-  I am currently a master student at NYU. I received my BEng (First class) from Xi'an Jiaotong-Liverpool University and the University of Liverpool, under the supervision of <a href="https://scholar.xjtlu.edu.cn/en/persons/HaiNingLiang">Hai-Ning Liang</a>. Prior to it, I worked with <a href="https://rochester-bear-lab.github.io/">Yukang Yan</a> (now at University of Rochester) and <a href="https://orsonxu.com/?section=1">Xuhai Xu</a> (now at MIT) at the Tsinghua University HCI Group, and <a href="https://xuwenge.github.io/">Wenge Xu</a> at Birmingham City University, and <a href="https://scholar.google.com.sg/citations?user=lC7bVMwAAAAJ&hl=en">Ling Wang</a> at the Tsinghua University Automation Department.
+  I am doing my Master Thesis under the supervison of <a href="https://wrneuman.com/"> Prof. W. Russell Neuman  and <a href="https://steinhardt.nyu.edu/people/camillia-matuk"> Prof. Camillia Matuk</a> at the<a href="https://wp.nyu.edu/riddle/"> RIDDLE Lab. I received my BEng (First Class Honors 10%) from Xi'an Jiaotong-Liverpool University and the University of Liverpool.
+
+  I am currently a research assistant at the <a href="https://vida.engineering.nyu.edu/"> NYU VIDA Lab</a>, working on the <a href="https://www.darpa.mil/program/perceptually-enabled-task-guidance"> DARPA Perceptually-enabled Task Guidance (PTG) project </a> guided by <a href="https://ctsilva.github.io/"> Prof. Claudio Silva</a> and <a href=" https://www.jingq.org/"> Prof. Jing Qian </a>. Also, I study and work with  <a href="https://cma.hkust-gz.edu.cn/people/hai-ning-liang/">  Prof. Hai-Ning Liang</a> (Hong Kong University of Science and Technology (GZ)), Prof. Yukang Yan</a> (University of Rochester), <a href="https://orsonxu.com/?section=1"> Prof. Xuhai Xu</a> (MIT, Columbia University), Prof. Wenge Xu</a> (Birmingham City University), and <a href="https://scholar.google.com.sg/citations?user=lC7bVMwAAAAJ&hl=en">Prof. Ling Wang</a> (Tsinghua University Automation Department).
     
-  My research interests lie in the realm of <a href="https://dl.acm.org/doi/abs/10.1145/3025453.3025765">Human-Computer Interaction</a>(HCI), specifically in <a href="https://dl.acm.org/doi/abs/10.1145/3290605.3300767">Mixed Reality</a> <strong>(AR/VR)</strong>, <strong>Adaptive Intelligent User Interface</strong>, <strong>Spatial Computing</strong>. My work focuses on <strong>understanding</strong> user behaviors through Computational Behavior Models, <strong>predicting</strong> them by using Instinctive Interaction Techniques, and <strong>enhancing</strong> user behaviors.
-  🍟ꈍꈊꈍ🍟   
+  My research foucs on </strong>understanding human behavior and workload patterns</strong> through computational behaviors methods to design </strong>Adaptive Intelligent Systems</strong> that help users perform real-world complex tasks, while making them more versatile by expanding their skillset and more proficient by reducing their errors. 🍟ꈍꈊꈍ🍟   
+  
+  I am applying for Ph.D. programs starting Fall 2025 and am currently seeking research intern opportunities. If my background aligns with your needs, please feel free to contact me at sw6352@nyu.edu.  
 </p>  
 
 
