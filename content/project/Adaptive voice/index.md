@@ -2,7 +2,7 @@
 title: Adaptive Voice (CHI24)
 summary:  Cognitively Adaptive Voice Interface for Driving Assistance
 tags:
-  - Predict
+  - Adaptive
 date: '2024-03-26T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

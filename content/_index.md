@@ -158,6 +158,7 @@ sections:
     content:
       title: News
       text: |-
+        * 09/2024: Submit two First-author to IEEE VR 25 finger cross！
         * 02/2024: First-author CHI24 paper was Accepted!🎉
         * 02/2024: Reviewed two CHI24 Late-Breaking Work papers
         * 09/2023: Started the master at NYU
@@ -184,10 +185,8 @@ sections:
           tag: '*'
         - name: Understand
           tag: Understand
-        - name: Predict
-          tag: Predict
-        - name: Enhance
-          tag: Enhance
+        - name: Adaptive
+          tag: Adaptive
         - name: Other
           tag: Other
     design:

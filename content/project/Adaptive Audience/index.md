@@ -2,7 +2,7 @@
 title:  Adaptive Audience (Ongoing)
 summary: A Reinforcement Learning-Based NPC Feedback Framework
 tags:
-  - Enhance
+  - Adaptive
 date: '2024-03-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
